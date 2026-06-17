@@ -1,0 +1,20 @@
+locale = "es"
+label = "Español"
+weight = 1
+title = "Enrique Sanz"
+
+[params]
+  displayName = "Español"
+  isoCode = "es"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "Blog personal de Enrique Sanz."
+
+[params.author]
+  name = "Enrique Sanz"
+  image = "img/avatar.jpg"
+  headline = ""
+  bio = ""
+  links = [
+    { github = "https://github.com/enriquesanz" },
+  ]
