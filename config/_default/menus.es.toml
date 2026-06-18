@@ -1,20 +1,9 @@
 [[main]]
   name = "Posts"
-  pageRef = "posts"
+  url = "/posts/"
   weight = 10
 
 [[main]]
   name = "Sobre mí"
-  pageRef = "about"
+  url = "/about/"
   weight = 20
-
-[[main]]
-  identifier = "github"
-  pre = "github"
-  url = "https://github.com/enriquesanz"
-  weight = 30
-
-[[footer]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 10
